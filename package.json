@@ -1,0 +1,14 @@
+{
+  "name": "restifyTestApp",
+  "version": "1.0.0",
+  "description": "testing server using restify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pramod Jangam",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "4.3.0"
+  }
+}
